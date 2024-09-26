@@ -40,3 +40,7 @@ def index():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+
+Cuanod alguien me amaba, me sentia tan feliz... Los momentos kque pasamos los recuerdo bien
+Siempre en su pesar 
